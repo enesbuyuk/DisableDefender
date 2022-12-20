@@ -1,4 +1,4 @@
-# disabledefender
+# DisableDefender
 How to permanently disable Windows Defender?
 
 <br>
