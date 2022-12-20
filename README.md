@@ -2,5 +2,5 @@
 How to permanently disable Windows Defender?
 
 <br>
-∘Defender'ı kapatmak için için Disable-Anti Malware çarklı ismgesine farenizle iki kez sol tık yapınız ve kayıt defterine ekleyiniz.<br>
-∘Defender'ı geri açmak için Re-Enable Anti-Malware çarklı simgesine iki kez tıklayınız ve kayıt defterine ekleyiniz.
+∘Run file "Disable Anti-Malware Service Executable.bat" for disable defender.
+∘Run file "Re-Enable Anti-Malware Service Executable.bat" for re-enable defender.
